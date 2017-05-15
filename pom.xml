@@ -7,7 +7,8 @@
     <packaging>pom</packaging>
     <modules>
         <module>frontstep-back</module>
-    </modules>
+    <module>frontstep-web</module>
+  </modules>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
