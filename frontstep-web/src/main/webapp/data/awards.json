@@ -1,0 +1,71 @@
+[{
+        "id": 1,
+        "name": "Nestlé Smarties Book Prize",
+        "description":"Gold Award for Harry Potter and the Philosopher's Stone",
+        "year":"1997",
+        "author": {
+            "id": 1,
+            "name": "J.K. Rowling",
+            "birthDate": "1965/07/31"
+        }
+},{
+        "id": 2,
+        "name": "British books awards",
+        "description":"Author of the year",
+        "year":"2000",
+        "author": {
+            "id": 1,
+            "name": "J.K. Rowling",
+            "birthDate": "1965/07/31"
+        }
+},{
+        "id": 3,
+        "name": "Writers of the Future",
+        "description":"",
+        "year":"2002",
+        "author": {
+            "id": 4,
+            "name": "Patrick Rothfuss",
+            "birthDate": "1973/06/06"
+        }
+},{
+        "id": 4,
+        "name": "British book of the year",
+        "description":"Winner for Harry Potter and the Half Blood Prince",
+        "year":"2006",
+        "author": {
+            "id": 1,
+            "name": "J.K. Rowling",
+            "birthDate": "1965/07/31"
+        }
+},{
+        "id": 5,
+        "name": "Premio ignotus",
+        "description":"Best Foreign Novel for A Storm of Swords",
+        "year":"2006",
+        "author": {
+            "id": 3,
+            "name": "George R. R. Martin",
+            "birthDate": "1948/09/20"
+        }         
+},{
+        "id": 6,
+        "name": "Locus Award",
+        "description":"Best Fantasy Novel for A dance with dragons",
+        "year":"2012",
+        "author": {
+            "id": 3,
+            "name": "George R. R. Martin",
+            "birthDate": "1948/09/20"
+        }         
+},{
+        "id": 7,
+        "name": "Locus Award",
+        "description":"Best Fantasy Novel for the silmarillon",
+        "year":"2012",
+        "author": {
+            "id": 2,
+            "name": "J. R. R. Tolkien",
+            "birthDate": "1892/01/03"
+        }         
+}]

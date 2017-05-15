@@ -1,0 +1,43 @@
+[{
+  "id": 1,
+  "name": "J.K. Rowling",
+  "image":"http://cdn1us.denofgeek.com/sites/denofgeekus/files/2016/11/rowling.jpg",
+  "birthDate": "1965/07/31",
+  "description":"Joanne 'Jo' Rowling, OBE, FRSL, pen names J. K. Rowling and Robert Galbraith, is a British novelist, screenwriter and film producer best known as the author of the Harry Potter fantasy series.",
+  "books": [],
+  "awards": [ {"id": 1,
+              "name": "Nestlé Smarties Book Prize"}
+             ,{"id": 2,
+               "name": "British books awards"}
+             ,{"id": 4,
+               "name": "British book of the year"}]     
+}, {
+  "id": 2,
+  "name": "J. R. R. Tolkien",
+  "birthDate": "1892/01/03",
+  "image":"http://www.biografiasyvidas.com/biografia/t/fotos/tolkien.jpg",
+  "description":"Joanne 'Jo' Rowling, OBE, FRSL, pen names J. K. Rowling and Robert Galbraith, is a British novelist, screenwriter and film producer best known as the author of the Harry Potter fantasy series.",
+  "books": [],
+  "awards":[ {"id": 7,
+              "name": "Locus Award"}]     
+}, {
+  "id": 3,
+  "name": "George R. R. Martin",
+  "birthDate": "1948/09/20",
+  "image":"http://static1.businessinsider.com/image/54d3c832eab8eabe028b4569-960/george-rr-martin-2011.jpg",
+  "books": [],
+  "awards": [ {"id": 5,
+              "name": "Premio ignotus"}
+             ,{"id": 6,
+               "name": "Locus Award"}] 
+}, {
+  "id": 4,
+  "name": "Patrick Rothfuss",
+  "birthDate": "1973/06/06",
+  "description":"Joanne 'Jo' Rowling, OBE, FRSL, pen names J. K. Rowling and Robert Galbraith, is a British novelist, screenwriter and film producer best known as the author of the Harry Potter fantasy series.",
+  "image":"http://librista.es/blog/wp-content/uploads/2014/05/patrick-rothfuss.jpg/5x10",
+  "books": [],
+  "awards": [{"id": 3,
+              "name": "Writers of the Future"}] 
+}]
+ 

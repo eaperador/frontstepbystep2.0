@@ -1,10 +1,25 @@
 <!DOCTYPE html>
-<html>
-    <head>
-        <title>Start Page</title>
-        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    </head>
-    <body>
-        <h1>Hello World!</h1>
-    </body>
+<html ng-app="mainApp">
+  <head>
+    <title>Start Page</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <!-- External dependencies -->
+    <script src="bower_components/jquery/dist/jquery.js"></script>
+    <script src="bower_components/angular/angular.js"></script>
+    <script src="bower_components/bootstrap/dist/js/bootstrap.js"></script>
+    <script src="bower_components/angular-ui-router/release/angular-ui-router.js"></script>
+    <!-- End -->
+  </head>
+  <body>
+    <div class='container-fluid'> 
+      <div class="row">
+        <div class="col-lg-12">
+          <ul class="nav nav-tabs">
+            <li><a ui-sref="booksList">Books</a></li>
+          </ul>                   
+        </div>
+      </div>               
+      <div ui-view></div> 
+    </div>
+  </body>
 </html>
